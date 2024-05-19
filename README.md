@@ -4,6 +4,27 @@ Ranvijay Singh Madanesh
 
 2021mt70571@wilp.bits-pilani.ac.in
 
+ScreenShots:
+
+
+<img width="452" alt="image" src="https://github.com/ranvijaysingh47/Quick-Task/assets/54016676/cb82201f-1a2c-4561-b0a7-d4d9bebc5ee0">
+
+
+
+
+<img width="452" alt="image" src="https://github.com/ranvijaysingh47/Quick-Task/assets/54016676/fc2fb38b-3ade-45a0-8d0b-853f3a8a8efa">
+
+
+
+
+<img width="452" alt="image" src="https://github.com/ranvijaysingh47/Quick-Task/assets/54016676/057a025b-d6a1-41ed-9fea-51966d8006f3">
+
+
+
+
+<img width="452" alt="image" src="https://github.com/ranvijaysingh47/Quick-Task/assets/54016676/9b60eaf1-7881-4e04-ac6c-d5c1092dbfcb">
+
+
 
 Objective:
 QuickTask is a simplified task management app designed to help users organize their tasks efficiently.
@@ -45,6 +66,7 @@ Assessment Criteria:
 - Code organization and readability.
 - Successful integration of frontend and backend.
 - Adherence to submission requirements.
+
 
 Conclusion:
 QuickTask provides students with a hands-on opportunity to practice their Flutter and Back4App skills by building a simple yet functional task management app.
